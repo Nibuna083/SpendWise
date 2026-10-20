@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise Expense Tracker",
+  "description": "Smart daily expense tracker with automatic monthly calculations, weekly reports, category breakdowns, and visual spending trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
